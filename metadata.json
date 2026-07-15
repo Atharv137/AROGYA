@@ -1,0 +1,8 @@
+{
+  "name": "AROGYA",
+  "description": "A premium health & wellness platform featuring workouts, diet plans, yoga, AI wellness assistant, and mentor booking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
